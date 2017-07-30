@@ -1,0 +1,171 @@
+var = bestFriends
+{
+  "name":"Spree",
+  "photo":"https:/.jpg",
+  "caption":"You got Spree! He loves to travel and is always down for a cruise."
+  "scores":[
+      5,
+      4,
+      1,
+      3,
+      4,
+      2,
+      1,
+      3,
+      5,
+      3
+    ]
+},
+{
+  "name":"Celeste",
+  "photo":"https:/.jpg",
+  "caption":"You got Celeste! She will always give you an honest opinion about that outfit."
+  "scores":[
+      3,
+      5,
+      2,
+      1,
+      4,
+      3,
+      2,
+      3,
+      4,
+      2
+    ]
+},
+{
+  "name":"Gizmo",
+  "photo":"https:/.jpg",
+  "caption":"You got Gizmo! He’s a little shy."
+  "scores":[
+      2,
+      2,
+      5,
+      1,
+      3,
+      4,
+      4,
+      3,
+      1,
+      2
+    ]
+},
+{
+  "name":"Goldie",
+  "photo":"https:/.jpg",
+  "caption":"You got Goldie! He will be a faithful companion - always by your side!"
+  "scores":[
+      4,
+      3,
+      1,
+      5,
+      3,
+      2,
+      1,
+      4,
+      4,
+      1
+    ]
+},
+{
+  "name":"Butler",
+  "photo":"https:/.jpg",
+  "caption":"You got Butler! He loves to watch you create new things."
+  "scores":[
+      3,
+      3,
+      2,
+      3,
+      5,
+      3,
+      3,
+      4,
+      3,
+      3
+    ]
+},
+{
+  "name":"Marshmellow",
+  "photo":"https:/.jpg",
+  "caption":"You got Marshmellow! She loves to be fluffy and comfy."
+  "scores":[
+      1,
+      4,
+      2,
+      1,
+      4,
+      5,
+      5,
+      4,
+      4,
+      5
+    ]
+},
+{
+  "name":"Gatsby",
+  "photo":"https:/.jpg",
+  "caption":"You got Gatsby! Some say he’s pretty great."
+  "scores":[
+      2,
+      2,
+      4,
+      1,
+      5,
+      4,
+      5,
+      4,
+      3,
+      4
+    ]
+},
+{
+  "name":"Pugsly",
+  "photo":"https:/.jpg",
+  "caption":"You got Pugsly! He will always be there for you."
+  "scores":[
+      4,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      5,
+      4,
+      4
+    ]
+},
+{
+  "name":"Pokey",
+  "photo":"https:/.jpg",
+  "caption":"You got Pokey! She loves to be the center of attention."
+  "scores":[
+      4,
+      5,
+      1,
+      3,
+      5,
+      5,
+      1,
+      5,
+      5,
+      1
+    ]
+},
+{
+  "name":"Toot",
+  "photo":"https:/.jpg",
+  "caption":"You got Toot! He will follow you everywhere."
+  "scores":[
+      5,
+      5,
+      3,
+      5,
+      5,
+      3,
+      4,
+      5,
+      4,
+      5
+    ]
+}

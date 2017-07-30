@@ -1,8 +1,8 @@
-var = bestFriends
+var friends = [
 {
   "name":"Spree",
-  "photo":"https:/.jpg",
-  "caption":"You got Spree! He loves to travel and is always down for a cruise."
+  "photo":"spree.JPG",
+  // "caption":"You got Spree! He loves to travel and is always down for a cruise.",
   "scores":[
       5,
       4,
@@ -18,8 +18,8 @@ var = bestFriends
 },
 {
   "name":"Celeste",
-  "photo":"https:/.jpg",
-  "caption":"You got Celeste! She will always give you an honest opinion about that outfit."
+  "photo":"celeste.JPG",
+  // "caption":"You got Celeste! She will always give you an honest opinion about that outfit.",
   "scores":[
       3,
       5,
@@ -35,8 +35,8 @@ var = bestFriends
 },
 {
   "name":"Gizmo",
-  "photo":"https:/.jpg",
-  "caption":"You got Gizmo! He’s a little shy."
+  "photo":"gizmo.JPG",
+  // "caption":"You got Gizmo! He’s a little shy.",
   "scores":[
       2,
       2,
@@ -52,8 +52,8 @@ var = bestFriends
 },
 {
   "name":"Goldie",
-  "photo":"https:/.jpg",
-  "caption":"You got Goldie! He will be a faithful companion - always by your side!"
+  "photo":"goldie.JPG",
+  // "caption":"You got Goldie! He will be a faithful companion - always by your side!",
   "scores":[
       4,
       3,
@@ -69,8 +69,8 @@ var = bestFriends
 },
 {
   "name":"Butler",
-  "photo":"https:/.jpg",
-  "caption":"You got Butler! He loves to watch you create new things."
+  "photo":"butler.JPG",
+  // "caption":"You got Butler! He loves to watch you create new things.",
   "scores":[
       3,
       3,
@@ -86,8 +86,8 @@ var = bestFriends
 },
 {
   "name":"Marshmellow",
-  "photo":"https:/.jpg",
-  "caption":"You got Marshmellow! She loves to be fluffy and comfy."
+  "photo":"marshmellow.JPG",
+  // "caption":"You got Marshmellow! She loves to be fluffy and comfy.",
   "scores":[
       1,
       4,
@@ -103,8 +103,8 @@ var = bestFriends
 },
 {
   "name":"Gatsby",
-  "photo":"https:/.jpg",
-  "caption":"You got Gatsby! Some say he’s pretty great."
+  "photo":"pokey.JPG",
+  // "caption":"You got Gatsby! Some say he’s pretty great.",
   "scores":[
       2,
       2,
@@ -120,8 +120,8 @@ var = bestFriends
 },
 {
   "name":"Pugsly",
-  "photo":"https:/.jpg",
-  "caption":"You got Pugsly! He will always be there for you."
+  "photo":"pugsly.JPG",
+  // "caption":"You got Pugsly! He will always be there for you.",
   "scores":[
       4,
       3,
@@ -137,8 +137,8 @@ var = bestFriends
 },
 {
   "name":"Pokey",
-  "photo":"https:/.jpg",
-  "caption":"You got Pokey! She loves to be the center of attention."
+  "photo":"pokey.JPG",
+  // "caption":"You got Pokey! She loves to be the center of attention.",
   "scores":[
       4,
       5,
@@ -154,8 +154,8 @@ var = bestFriends
 },
 {
   "name":"Toot",
-  "photo":"https:/.jpg",
-  "caption":"You got Toot! He will follow you everywhere."
+  "photo":"toot.PNG",
+  // "caption":"You got Toot! He will follow you everywhere.",
   "scores":[
       5,
       5,
@@ -169,3 +169,5 @@ var = bestFriends
       5
     ]
 }
+]
+module.exports = friends;
